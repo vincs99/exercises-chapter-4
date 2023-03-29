@@ -1,3 +1,5 @@
+"""Do a glider here for sure."""
+
 import life
 
 g = life.Game(20)

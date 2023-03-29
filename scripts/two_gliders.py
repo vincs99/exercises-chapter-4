@@ -1,3 +1,5 @@
+"""Do double glider."""
+
 from life import Game, Pattern, glider
 
 g = Game(30)
